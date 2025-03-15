@@ -1,4 +1,4 @@
-# 2024-march-madness-bracket
+# 2025-march-madness-bracket
 
 ## Setup
 
